@@ -1,0 +1,19 @@
+.left-panel-container {
+  background-color: aquamarine;
+  height: 90vh;
+  width: 15vw;
+}
+
+.components-container {
+  margin-top: 50px;
+}
+.component-text {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bolder;
+  color: black;
+  margin-left: 50px;
+}
+.link-item {
+  text-decoration: none;
+}
